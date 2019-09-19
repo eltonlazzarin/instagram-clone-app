@@ -1,0 +1,16 @@
+header#main-header {
+    background: #fff;
+    height: 72px;
+    border-bottom: 1px solid #DDD;
+}
+
+header#main-header .header-content {
+    width: 100%;
+    max-width: 980px; /* for the width to have a maximum and not exceed that */
+    margin: 0 auto;
+    height: 72px;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
