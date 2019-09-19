@@ -2,7 +2,7 @@
 
 Project made with NodeJS, React and React Native
 
-<img src="https://github.com/eltonlazzarin/dropbox-fake-app/blob/master/frontend/frontendBox.gif">
+<img src="https://github.com/eltonlazzarin/instagram-clone-app/blob/master/frontend/frontend.gif">
 
 
 # Development environment
