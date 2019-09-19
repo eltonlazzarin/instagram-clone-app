@@ -1,6 +1,6 @@
 # Instagram Clone - A Full Stack Project App 
 
-Project made with NodeJS, React and React Native
+### Project made with NodeJS, React and React Native
 
 <img src="https://github.com/eltonlazzarin/instagram-clone-app/blob/master/frontend/frontend.gif">
 
@@ -73,4 +73,5 @@ or
 $ react-native run-ios
 ```
 
+<img src="https://github.com/eltonlazzarin/instagram-clone-app/blob/master/mobile/rocketinsta.gif">
 
