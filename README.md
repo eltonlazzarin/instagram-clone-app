@@ -5,6 +5,11 @@
 <img src="https://github.com/eltonlazzarin/instagram-clone-app/blob/master/frontend/frontend.gif">
 
 
+<p align="center">
+  <img src="https://github.com/eltonlazzarin/instagram-clone-app/blob/master/mobile/rocketinsta.gif">
+</p>
+
+
 # Development environment
 
 To excute all projects below, you have to install [Node.js](https://nodejs.org), [NPM](https://www.npmjs.com/), [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) enviroment and an editor, like [Visual Studio Code](https://code.visualstudio.com/).
@@ -72,6 +77,4 @@ or
 ```sh
 $ react-native run-ios
 ```
-
-<img src="https://github.com/eltonlazzarin/instagram-clone-app/blob/master/mobile/rocketinsta.gif">
 
