@@ -1,4 +1,4 @@
-# Instagram Clone - A Full Stack Project App  
+# Instagram Clone - A Full Stack Project App
 
 ### Project made with NodeJS, React and React Native
 
